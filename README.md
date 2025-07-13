@@ -14,7 +14,6 @@ The platform combines a modern React frontend and a robust .NET backend API, ens
   * Engage in various scenarios to learn how to speak correctly.
   * Interact with an AI agent that provides feedback on your language skills.
   * Join Virtual Learning Rooms to discuss topics with peers and receive assessments on your language proficiency, along with improvement suggestions.
-
 ---
 
 ## Who Can Use Duckie?
