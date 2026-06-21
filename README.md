@@ -215,7 +215,7 @@ both will start together
 ---
 
 ## Demo
-[Demo Video](https://eman288.github.io/Duckie/)
+[Demo Video](https://eman288.github.io/Duckie-AI-powered-language-learning-platform/)
 
 ---
 
